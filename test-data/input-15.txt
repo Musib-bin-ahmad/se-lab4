@@ -1,0 +1,3 @@
+GT4500,1,0,0,0  # init ship
+TORPEDO,SINGLE  # fire primary, now empty
+TORPEDO,SINGLE  # secondary empty, primary empty too
