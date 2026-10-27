@@ -1,0 +1,4 @@
+GT4500,1,0,1,0  # init ship
+TORPEDO,SINGLE  # fire
+TORPEDO,SINGLE  # fire
+TORPEDO,SINGLE  # fire
